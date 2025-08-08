@@ -29,13 +29,13 @@ I’m a dedicated full-stack developer with a strong foundation in front-end tec
 ---
 
 ## 📊 GitHub Stats  
-![Yermek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inf1nityvv&theme=dark&show_icons=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api?username=inf1nityvv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=inf1nityvv&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=inf1nityvv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
-## ✍️ Developer Quote  
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
->  
-> *(Stay sharp, write clear, build smart.)*
+## ✍️ Dev Wisdom 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -43,4 +43,4 @@ I’m a dedicated full-stack developer with a strong foundation in front-end tec
 I can not fall asleep until I finish what I have started...
 ---
 
-Thank you for visiting! Feel free to reach out if you want to collaborate, discuss ideas or share experiences!
+Thank you for visiting! Feel free to reach out to me if you'd like to collaborate, discuss ideas, or share experiences.
