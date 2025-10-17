@@ -1,4 +1,4 @@
-# Full Stack Software Engineer & Security | Data Analyst
+# Full Stack Software Engineer | Security & Data Analyst
 
 ### Crafting high-quality, secure, and scalable software solutions that drive innovation and impact.
 
