@@ -1,4 +1,4 @@
-# Software Developer & Cybersecurity Engineer
+# Full Stack Software Developer & Security | Data Analyst
 
 ### Crafting high-quality, secure, and scalable software solutions that drive innovation and impact.
 
