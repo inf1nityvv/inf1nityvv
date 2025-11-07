@@ -1,20 +1,23 @@
-# Full Stack Software Engineer | Security & Data Analyst
+# Data Analyst | Full Stack Software Engineer
 
 ### Crafting high-quality, secure, and scalable software solutions that drive innovation and impact.
 
 ---
 
 ## About Me  
-I’m a dedicated full-stack developer with a strong foundation in front-end technologies and cybersecurity. Skilled in building robust, user-friendly applications and implementing best security practices, I combine hands-on experience with Cisco networking, system security, and cutting-edge development frameworks. I thrive on turning complex problems into clean, maintainable, and scalable solutions.
+I’m a results-driven Data Analyst and Full-Stack Developer with a strong foundation in AI, Machine Learning, and Data Analytics. I specialize in designing intelligent, data-driven, and user-focused solutions that connect analytical depth with practical software implementation.
+
+Skilled in Python, SQL, Power BI, Tableau, scikit-learn, TensorFlow, JavaScript, TypeScript, Vue.js, React, and Docker, I bring together data insight, modern development frameworks, and secure engineering practices. With a background in cybersecurity and hands-on experience in Cisco networking and system security, I ensure every solution is scalable, maintainable, and resilient.
 
 ---
 
-## What I Do:  
+## What I Do:
+- Continuous learning in AI/ML, data visualization, and automation
 - Front-end development with React, Vue, TailwindCSS, and Vite  
 - Backend & API integration with Node.js, Flask, MongoDB, MySQL  
 - Cybersecurity best practices: network security, penetration testing, secure coding  
 - Cloud & DevOps basics: Docker, Kubernetes, Nginx, CI/CD pipelines  
-- Continuous learning in AI/ML, data visualization, and automation  
+  
 
 ---
 
@@ -29,8 +32,6 @@ I’m a dedicated full-stack developer with a strong foundation in front-end tec
 ---
 
 ## GitHub Stats:  
-![](https://github-readme-stats.vercel.app/api?username=inf1nityvv&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=inf1nityvv&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=inf1nityvv&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
