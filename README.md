@@ -1,6 +1,6 @@
-# Data Analyst | Full Stack Software Engineer
+# AI/ML Engineer | Data Analyst
 
-### Crafting high-quality, secure, and scalable software solutions that drive innovation and impact.
+### Crafting high-quality, secure, and scalable data solutions that drive innovation and impact.
 
 ---
 
