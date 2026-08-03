@@ -1,11 +1,11 @@
-# AI/ML Engineer | Data Analyst
+# AI/ML Engineer
 
 ### Crafting high-quality, secure, and scalable data solutions that drive innovation and impact.
 
 ---
 
 ## About Me  
-I’m a results-driven Data Analyst and Full-Stack Developer with a strong foundation in AI, Machine Learning, and Data Analytics. I specialize in designing intelligent, data-driven, and user-focused solutions that connect analytical depth with practical software implementation.
+I’m a results-driven AI Engineer with a strong foundation in AI, Machine Learning, and Data Analytics. I specialize in designing intelligent, data-driven, and user-focused solutions that connect analytical depth with practical software implementation.
 
 Skilled in Python, SQL, Power BI, Tableau, scikit-learn, TensorFlow, JavaScript, TypeScript, Vue.js, React, and Docker, I bring together data insight, modern development frameworks, and secure engineering practices. With a background in cybersecurity and hands-on experience in Cisco networking and system security, I ensure every solution is scalable, maintainable, and resilient.
 
