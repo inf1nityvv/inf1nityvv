@@ -1,4 +1,4 @@
-# Hey there👋🏼, I'm Bakdaulet. Welcome to my Github Profile!
+# Hey there 👋🏼, I'm Bakdaulet
 
 ### AI/ML Engineer
 
