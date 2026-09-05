@@ -29,9 +29,6 @@ Skilled in Python, SQL, Power BI, Tableau, scikit-learn, TensorFlow, JavaScript,
 
 ---
 
-## GitHub Stats:  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=inf1nityvv&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
 
 ## Dev Wisdom 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
