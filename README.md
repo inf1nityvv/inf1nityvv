@@ -1,4 +1,4 @@
-# Hey there 👋🏼, I'm Bakdaulet. Welcome to my profile!
+# 👋🏼 Hey there, I'm Bakdaulet. Welcome to my profile!
 
 ### AI/ML Engineer | Data Analyst
 
