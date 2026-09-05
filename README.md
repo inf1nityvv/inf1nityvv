@@ -1,11 +1,11 @@
 # Hey there 👋🏼, I'm Bakdaulet
 
-### AI/ML Engineer
+### AI/ML Engineer | Data Analyst
 
 ---
 
 ## About Me  
-I’m a results-driven AI Engineer with experience Software Development and Data Analytics. I specialize in designing intelligent, data-driven, and user-focused solutions that connect analytical depth with practical software implementation.
+I’m a results-driven AI Engineer and Data Analyst. I specialize in designing intelligent, data-driven, and user-focused solutions that connect analytical depth with practical software implementation.
 
 Skilled in Python, SQL, Power BI, Tableau, scikit-learn, TensorFlow, JavaScript, TypeScript, Vue.js, React, and Docker, I bring together data insight, modern development frameworks, and secure engineering practices. With a background in cybersecurity and hands-on experience in Cisco networking and system security, I ensure every solution is scalable, maintainable, and resilient.
 
@@ -14,9 +14,8 @@ Skilled in Python, SQL, Power BI, Tableau, scikit-learn, TensorFlow, JavaScript,
 ## What I Do:
 - Continuous learning in AI/ML, data visualization, and automation
 - Front-end development with React, Vue, TailwindCSS, and Vite  
-- Backend & API integration with Node.js, Flask, MongoDB, MySQL  
-- Cybersecurity best practices: network security, penetration testing, secure coding  
-- Cloud & DevOps basics: Docker, Kubernetes, Nginx, CI/CD pipelines  
+- Backend & API integration with Node.js, Flask, MongoDB, PostgreSQL  
+- Cloud & DevOps basics: Docker, Kubernetes, Kafka, Nginx, CI/CD  
   
 
 ---
